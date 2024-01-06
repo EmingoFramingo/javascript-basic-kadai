@@ -4,7 +4,7 @@ for (i=0; i<=15; i++){
     console.log(holidays[i]);
 }
 
-let index=0
+let index=-1
 while ( index< 15 ){
     index++;
     console.log(holidays[index]);
